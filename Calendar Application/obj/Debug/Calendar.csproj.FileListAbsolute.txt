@@ -1,0 +1,8 @@
+C:\Users\dell\OneDrive\Desktop\Front-End Tech\Demo\bin\Debug\Demo.exe.config
+C:\Users\dell\OneDrive\Desktop\Front-End Tech\Demo\bin\Debug\Demo.exe
+C:\Users\dell\OneDrive\Desktop\Front-End Tech\Demo\bin\Debug\Demo.pdb
+C:\Users\dell\OneDrive\Desktop\Front-End Tech\Demo\obj\Debug\Calendar.csproj.AssemblyReference.cache
+C:\Users\dell\OneDrive\Desktop\Front-End Tech\Demo\obj\Debug\Calendar.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell\OneDrive\Desktop\Front-End Tech\Demo\obj\Debug\Calendar.csproj.CoreCompileInputs.cache
+C:\Users\dell\OneDrive\Desktop\Front-End Tech\Demo\obj\Debug\Demo.exe
+C:\Users\dell\OneDrive\Desktop\Front-End Tech\Demo\obj\Debug\Demo.pdb
