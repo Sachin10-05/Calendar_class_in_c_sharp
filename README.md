@@ -7,7 +7,7 @@ In order to improve my knowledge of C# OOP's, which I have been trying to learn 
 
 
 ## Description
-This application is built using below mentioned tech stacks and moreover it is based on  `C# OOPs Concept`. Also this rpoject been created using Visual Studio 2022.
+This application is built using below mentioned tech stacks and moreover it is based on  `C# OOPs Concept`. Also this poject been created using Visual Studio 2022.
 
 
 ## Topics covered:
@@ -26,11 +26,12 @@ This application is built using below mentioned tech stacks and moreover it is b
 
 
 ## Code Workflow
-<img src='output img-1.png' alt='project image...' /> <br />
+<img src='Code Workflow.png' alt='project image...' /> <br />
 
 
 ## Architecture used:
-<img src='output img-2.png' alt='project image...' />
+<img src='calendar architecture model.png' alt='project image...' />  <br />
 
 
 ## output
+<img src='output window.png' alt='project image...' /> <br />
