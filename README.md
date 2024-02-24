@@ -26,7 +26,7 @@ This application is built using below mentioned tech stacks and moreover it is b
 
 
 ## Code Workflow
-<img src='Code Workflow.png' alt='project image...' /> <br />
+<img src='Code workflow.png' alt='project image...' /> <br />
 
 
 ## Architecture used:
