@@ -1,5 +1,5 @@
-# Calendar class Application
-It's a replica to demonstrate children's admission date in school using Calendar class...
+# Calendar Class Application
+It's a replica/implementation to demonstrate children's admission date in school using Calendar class...
 
 
 ## Objective
